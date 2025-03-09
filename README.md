@@ -66,7 +66,7 @@ TitanPHP is a **lightweight**, **high-performance** PHP framework inspired by La
 To install **TitanPHP**, follow these simple steps:
 ```sh
 # 📥 Clone the repository
-git clone https://github.com/your-repo/titanphp.git
+git clone https://github.com/iqbolshoh/titanphp.git
 cd titanphp
 
 # 📦 Install dependencies
